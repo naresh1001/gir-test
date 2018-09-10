@@ -1,0 +1,17 @@
+{
+  
+  "main":"index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "dependencies": {
+    "npm": "^6.4.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  },
+  "version": "",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
